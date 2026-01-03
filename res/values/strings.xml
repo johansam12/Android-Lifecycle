@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+
+    <string name="aurora_borealis">Aurora Borealis</string>
+    <string name="aurora_desc">A symphony of colors lighting up the arctic night.</string>
+    <string name="aurora_image">Aurora Image</string>
+</resources>
